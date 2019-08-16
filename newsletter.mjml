@@ -1,0 +1,71 @@
+<mjml>
+  <mj-body font-family="PT Sans, Helvetica, Arial, sans-serif" background-color="#ffffff" width="600px">
+    <mj-section background-color="#293744" full-width="full-width">
+      <mj-column width="100 %" vertical-align="middle">
+        <mj-text color="#FFFFFF" align="right" font-size="11px" padding-bottom="0px" padding-top="0"><span style="font-size: 11px"><a href="[LINK_BROWSER]" style="text-decoration: none; color: inherit;">Si no pots veure aquest butlletí, fes clic aquí</a></span></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" >
+      <mj-column width="33.33333333333333%" vertical-align="middle">
+        <mj-image src="https://cancarner.cat/wp-content/uploads/2019/08/logo_natural.png" alt="Can Carner" padding-bottom="0px" padding-top="0px" href="https://cancarner.cat/"></mj-image>
+      </mj-column>
+      <mj-column width="66.66666666666666%" vertical-align="middle">
+        <mj-text align="right" font-size="14px" color="#45474e" line-height="18px">Butlletí informatiu ꞏ 19 d'agost de 2019</mj-text>
+      <mj-column>
+    </mj-section>
+    <mj-section vertical-align="middle" background-url="https://cancarner.cat/wp-content/uploads/2019/02/004-1.jpg" background-size="cover" background-repeat="no-repeat" padding-top="450px">
+    </mj-section>
+    <mj-section vertical-align="middle" background-color="#d03c15">
+      <mj-column width="100%" vertical-align="middle">
+        <mj-text align="left" font-size="14px" color="#ffffff" padding-bottom="10px" padding-top="10px" line-height="18px"><span style="font-size: 24px; line-height: 30px;">Arrelem Can Carner!</span><br/><br/>La Cooperativa d'Habitatge Can Carner ha emès 2000 títols participatius de 100€ cadascun amb una remuneració del 2% anual i una durada de 3 anys, a partir dels quals es podran renovar anualment.</mj-text>
+        <mj-text align="left" font-size="14px" color="#ffffff" padding-bottom="10px" padding-top="10px" line-height="18px"><b>La campanya estarà activa del 10 d'agost al 20 de setembre, fins a l'esgotament dels títols.</b></mj-text>
+        <mj-button align="left" background-color="#ffffff" color="#d03c15" border-radius="2px" font-size="16px" href="https://cancarner.cat/arrelem-can-carner/" padding-top="20px"><b>VULL PARTICIPAR</b></mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section vertical-align="middle" background-color="#ffffff">
+      <mj-column width="100%" vertical-align="middle">
+        <mj-text align="left" font-size="14px" color="#45474e" padding-bottom="10px" padding-top="10px"><span style="font-size: 24px; line-height: 30px;">Hola!</span></mj-text>
+        <mj-text align="justify" font-size="14px" color="#45474e" padding-bottom="10px" padding-top="10px" line-height="18px">Com ja deus saber, el dia 10 d'agost vam iniciar amb força la campanya de finançament participatiu per tal de fer possible el projecte de Can Carner. Donat que d'una o una altra manera formes part d'aquest projecte i, per tant, l'estàs fent possible, tenim ganes d'explicar-te en quin punt ens trobem actualment.
+        </mj-text>
+        <mj-text align="justify" font-size="14px" color="#45474e" padding-bottom="10px" padding-top="10px" line-height="18px">Primer de tot et posem en antecedents: al gener vam fer el pagament de les arres, determinades a adquirir la finca i així fer possible aquest projecte. Després de diversos contactes amb diferents bancs i la valoració d'alternatives, el finançament hipotecari no ha estat possible. A mitjans d'octubre venç el termini que tenim per fer la compra de la finca.</mj-text>
+        <mj-text align="justify" font-size="14px" color="#45474e" padding-bottom="10px" padding-top="10px" line-height="18px">Aquesta situació, sumada a conèixer els processos d'altres Cooperatives semblants, ens porta a obrir la possibilitat d'aconseguir part del finançament de forma col·laborativa. D'aquí en surt la campanya <a href="https://cancarner.cat/arrelem-can-carner/" style="color:#d03c15">#ArrelemCanCarner</a>. Les persones amb interès o pròximes al projecte podeu col·laborar-hi amb petits préstecs a tres anys, comprant títols participatius amb valor de 100€ per títol.</mj-text>
+        <mj-text align="justify" font-size="14px" color="#45474e" padding-bottom="10px" padding-top="10px" line-height="18px">En aquest punt estem a dia d'avui. Centrades a fer arribar el projecte arreu del planeta! I alhora explorant possibilitats complementàries que permetin el finançament de la resta del projecte, que inclourà tota la part de la reforma. Sense voler-nos anticipar, volem traslladar-te el nostre optimisme i esperança en el treball conjunt i passes fetes darrerament amb una de les entitats bancàries.</mj-text>
+        <mj-text align="justify" font-size="14px" color="#45474e" padding-bottom="10px" padding-top="10px" line-height="18px">Si et ve de gust et seguirem informant dels propers esdeveniments destacables del projecte.</mj-text>
+        <mj-text align="justify" font-size="14px" color="#45474e" padding-bottom="10px" padding-top="10px" line-height="18px"><a href="https://cancarner.cat/arrelem-can-carner/" style="color:#d03c15">#ArrelemCanCarner</a> per seguir construint un model alternatiu de convivència.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" full-width="full-width">
+      <mj-column width="100%" vertical-align="middle">
+        <mj-text align="left" font-size="10px" color="#9da3a3" padding-bottom="10px" padding-top="0px">
+          Si desitgeu donar-vos de baixa d'aquest butlletí, podeu fer-ho clicant aquest <a href="[LINK_UNSUBSCRIBE]" style="color: #9da3a3">enllaç</a>.
+        </mj-text>
+        <mj-text align="justify" font-size="10px" color="#9da3a3" padding-bottom="10px" padding-top="0px" line-height="14px">
+          D'acord amb la Llei Orgànica 15/1999, de 13 de desembre, de Protecció de Dades de Caràcter Personal, vostè és informat de la incorporació de les seves dades en un fitxer automatitzat. El propòsit és gestionar la nostra agenda de contactes, atendre les seves sol·licituds per via electrònica així com a efectes històrics o per informar-lo de les nostres activitats. Igualment, queda informat de la possibilitat d'exercir els drets d'accés, rectificació, cancel·lació i oposició a que les seves dades siguin tractades per Can Carner Cooperativa d'Habitatge, S.C.C.L., adreçant-se a: cancarner@cancarner.cat. Per a més informació consulti la política de privacitat a <a style="color: #9da3a3" href="https://cancarner.cat/cookies">https://cancarner.cat/cookies</a>.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#293744" full-width="full-width">
+      <mj-column width="50%" vertical-align="middle">
+        <mj-text color="#FFFFFF" align="left"><span style="font-size: 11px" padding="0px"><a href="http://cancarner.cat" style="text-decoration: none; color: inherit;">Can Carner Cooperativa d'Habitatge</a></span></mj-text>
+      </mj-column>
+      <mj-column width="50%" vertical-align="middle">
+        <mj-section padding-top="0px" padding-bottom="0px" padding-right="10px" text-align="right">
+          <mj-group width="120px">
+            <mj-column>
+              <mj-image height="20px" width="20px" padding="0px" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/facebook.png" alt="facebook" href="https://www.facebook.com/cancarner/"></mj-image>
+            </mj-column>
+            <mj-column>
+              <mj-image height="20px" width="20px" padding="0px" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/instagram.png" alt="instagram" href="https://www.instagram.com/cancarnercoop/"></mj-image>
+            </mj-column>
+            <mj-column>
+              <mj-image height="20px" width="20px" padding="0px" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/twitter.png" alt="twitter" href="http://twitter.com/cancarner"></mj-image>
+            </mj-column>
+            <mj-column>
+              <mj-image height="20px" width="20px" padding="0px" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/youtube.png" alt="youtube" href="https://www.youtube.com/channel/UCeEZo-Lkz7PREdp_WxZD25Q"></mj-image>
+            </mj-column>
+          </mj-group>
+        </mj-section>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
