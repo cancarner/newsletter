@@ -10,7 +10,7 @@
         <mj-image src="https://cancarner.cat/wp-content/uploads/2019/08/logo_natural.png" alt="Can Carner" padding-bottom="0px" padding-top="0px" href="https://cancarner.cat/"></mj-image>
       </mj-column>
       <mj-column width="66.66666666666666%" vertical-align="middle">
-        <mj-text align="right" font-size="14px" color="#45474e" line-height="18px">Butlletí informatiu ꞏ 19 d'agost de 2019</mj-text>
+        <!-- <mj-text align="right" font-size="14px" color="#45474e" line-height="18px">Butlletí informatiu ꞏ 19 d'agost de 2019</mj-text> -->
       <mj-column>
     </mj-section>
     <mj-section vertical-align="middle" background-url="https://cancarner.cat/wp-content/uploads/2019/02/004-1.jpg" background-size="cover" background-repeat="no-repeat" padding-top="450px">
@@ -32,6 +32,9 @@
         <mj-text align="justify" font-size="14px" color="#45474e" padding-bottom="10px" padding-top="10px" line-height="18px">En aquest punt estem a dia d'avui. Centrades a fer arribar el projecte arreu del planeta! I alhora explorant possibilitats complementàries que permetin el finançament de la resta del projecte, que inclourà tota la part de la reforma. Sense voler-nos anticipar, volem traslladar-te el nostre optimisme i esperança en el treball conjunt i passes fetes darrerament amb una de les entitats bancàries.</mj-text>
         <mj-text align="justify" font-size="14px" color="#45474e" padding-bottom="10px" padding-top="10px" line-height="18px">Si et ve de gust et seguirem informant dels propers esdeveniments destacables del projecte.</mj-text>
         <mj-text align="justify" font-size="14px" color="#45474e" padding-bottom="10px" padding-top="10px" line-height="18px"><a href="https://cancarner.cat/arrelem-can-carner/" style="color:#d03c15">#ArrelemCanCarner</a> per seguir construint un model alternatiu de convivència.</mj-text>
+        <mj-text align="justify" font-size="14px" color="#45474e" padding-bottom="10px" padding-top="10px" line-height="18px">
+          Us hem enviat aquest butlletí perquè en algun moment heu mostrat interès per la Cooperativa, però no si desitgeu rebre'l més podeu donar-vos de baixa clicant aquest <a href="[LINK_UNSUBSCRIBE]" style="color:#d03c15">enllaç</a>.
+        </mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff" full-width="full-width">
@@ -45,10 +48,10 @@
       </mj-column>
     </mj-section>
     <mj-section background-color="#293744" full-width="full-width">
-      <mj-column width="50%" vertical-align="middle">
+      <!-- <mj-column width="50%" vertical-align="middle">
         <mj-text color="#FFFFFF" align="left"><span style="font-size: 11px" padding="0px"><a href="http://cancarner.cat" style="text-decoration: none; color: inherit;">Can Carner Cooperativa d'Habitatge</a></span></mj-text>
-      </mj-column>
-      <mj-column width="50%" vertical-align="middle">
+      </mj-column> -->
+      <mj-column width="100%" vertical-align="middle">
         <mj-section padding-top="0px" padding-bottom="0px" padding-right="10px" text-align="right">
           <mj-group width="120px">
             <mj-column>
