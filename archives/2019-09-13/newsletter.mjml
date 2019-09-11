@@ -1,4 +1,4 @@
-newsletter<mjml>
+<mjml>
   <mj-body font-family="PT Sans, Helvetica, Arial, sans-serif" background-color="#ffffff" width="600px">
     <mj-section background-color="#293744" full-width="full-width">
       <mj-column width="100 %" vertical-align="middle">
