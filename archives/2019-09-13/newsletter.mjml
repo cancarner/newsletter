@@ -1,0 +1,92 @@
+<mjml>
+  <mj-body font-family="PT Sans, Helvetica, Arial, sans-serif" background-color="#ffffff" width="600px">
+    <mj-section background-color="#293744" full-width="full-width">
+      <mj-column width="100 %" vertical-align="middle">
+        <mj-text color="#FFFFFF" align="right" font-size="11px" padding-bottom="0px" padding-top="0"><span style="font-size: 11px"><a href="[LINK_BROWSER]" style="text-decoration: none; color: inherit;">Si no pots veure aquest butlletí, fes clic aquí</a></span></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" >
+      <mj-column width="33.33333333333333%" vertical-align="middle">
+        <mj-image src="https://cancarner.cat/wp-content/uploads/2019/08/logo_natural.png" alt="Can Carner" padding-bottom="0px" padding-top="0px" href="https://cancarner.cat/"></mj-image>
+      </mj-column>
+      <mj-column width="66.66666666666666%" vertical-align="middle">
+        <!-- <mj-text align="right" font-size="14px" color="#45474e" line-height="18px">Butlletí informatiu ꞏ 19 d'agost de 2019</mj-text> -->
+      <mj-column>
+    </mj-section>
+    <mj-section vertical-align="middle" background-url="https://cancarner.cat/wp-content/uploads/2019/08/image004.jpg" background-size="cover" background-repeat="no-repeat" padding-top="300px">
+    </mj-section>
+    <mj-section vertical-align="middle" background-color="#d03c15">
+      <mj-column width="100%" vertical-align="middle">
+        <mj-text align="justify" font-size="14px" color="#ffffff" padding-bottom="10px" padding-top="10px" line-height="18px"><span style="font-size: 24px; line-height: 30px;">Queda una setmana, comença el compte enrere!</span><br/><br/>Animeu-vos a col·laborar amb l’adquisició de títols participatius per fer realitat el projecte de Can Carner. Amb el vostre suport ho aconseguirem!</mj-text>
+        <mj-button align="left" background-color="#ffffff" color="#d03c15" border-radius="2px" font-size="16px" href="https://cancarner.cat/arrelem-can-carner/" padding-top="20px"><b>VULL PARTICIPAR</b></mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section vertical-align="middle" background-color="#ffffff">
+      <mj-column width="100%" vertical-align="middle">
+        <mj-text align="left" font-size="14px" color="#45474e" padding-bottom="10px" padding-top="10px"><span style="font-size: 24px; line-height: 30px;">Amics i amigues de Can Carner</span></mj-text>
+        <mj-text align="justify" font-size="14px" color="#45474e" padding-bottom="10px" padding-top="10px" line-height="18px">Com ja sabeu, el passat 10 d’agost es va iniciar la campanya de finançament col·lectiu <a href="https://cancarner.cat/arrelem-can-carner/" style="color:#d03c15">#ArrelemCanCarner</a>. I és per la teva proximitat al projecte que et volem explicar com va tot plegat i quins són els passos que estem donant per fer-nos camí.
+        </mj-text>
+        <mj-text align="justify" font-size="14px" color="#45474e" padding-bottom="10px" padding-top="10px" line-height="18px">Aquestes últimes setmanes hem treballat intensament per fer una gran difusió i hem participat a diferents mitjans de comunicació. Hem estat a <a href="https://radiosabadell.fm/noticia/12-families-impulsen-un-model-diferent-dhabitatge-rehabilitant-una-masia-del-segle-xiii-de" style="color:#d03c15">Ràdio Sabadell</a> i <a href="https://www.lactual.cat/uploads/s1/56/62/45/0609-cancarner-habitatgecooperatiu.mpga" style="color:#d03c15">Ràdio Castellar</a> ens va entrevistar en directe (emetent a 4 radios locals més). <a href="https://terrassadigital.cat/dotze-families-impulsen-un-model-dhabitatge-cooperatiu-a-la-finca-de-can-carner-de-castellar-del-valles/" style="color:#d03c15">Canal Terrassa TV</a> també es va fer ressò de la campanya de finançament i ens va emetre pel seu canal. </mj-text>
+        <mj-image padding-top="10px" padding-bottom="10px" title="Can Carner a l'Actual" src="https://www.lactual.cat/uploads/s1/56/62/27/cancarner.jpeg" alt="Can Carner" padding-bottom="0px" padding-top="0px"></mj-image>
+        <mj-text align="justify" font-size="14px" color="#45474e" padding-bottom="10px" padding-top="10px" line-height="18px">La Vanguardia ens acaba de fer un reportatge per al suplement <i>Viure</i> que sortirà aquesta mateixa setmana. Fa uns dies ens vam reunir amb l'Associació de Veïns de Can Carner i també amb l'alcalde de Castellar per presentar formalment el projecte i les nostres fites. També ens hem desplaçat a Cerdanyola del Vallès després de rebre la invitació del grup <a href="https://blog.somenergia.coop/grupos-locales/catalunya/cerdanyola/2019/08/cohabitatge-a-can-carner-una-alternativa-al-model-tradicional-de-comprar-o-llogar/" style="color:#d03c15">SOM Economia Social i Solidària</a> que promou Som Energia a la seva zona, per presentar la campanya. Proximament anirem a <a href="http://www.candeufm.com/" style="color:#d03c15"> Ràdio Can Deu</a> de Sabadell.</mj-text>
+        <mj-text align="justify" font-size="14px" color="#45474e" padding-bottom="10px" padding-top="10px" line-height="18px">I ja que estem al 50% d'aconseguir el nostre objectiu i queden pocs dies per tancar la campanya, estem organitzant una presentació a la sala El Mirador de Castellar del Vallès per fer més difusió i aconseguir donar-li l'última empenta que necessitem.</mj-text>
+        <mj-text align="justify" font-size="14px" color="#45474e" padding-bottom="10px" padding-top="10px" line-height="18px">El 20 de setembre finalitza la campanya i necessitem el teu suport i col·laboració, fent difusió o col·laborant econòmicament. El teu granet de sorra suma. Encara hi ets a temps!</mj-text>
+        <mj-text align="justify" font-size="14px" color="#45474e" padding-bottom="10px" padding-top="10px" line-height="18px">Estem a mig camí d'aconseguir-ho!</mj-text>
+        <mj-hero
+          background-url="https://cancarner.cat/wp-content/uploads/2019/08/model_cooperatiu.jpg"
+          padding="20px">
+          <mj-text
+            container-background-color="#d03c15"
+            padding="10px"
+            color="#ffffff"
+            font-family="Helvetica"
+            align="center"
+            font-size="24px"
+            line-height="32px"
+            font-weight="600">
+            Gràcies a tu la llavor de Can Carner arrelarà en terra ferma
+          </mj-text>
+        </mj-hero>
+        <mj-text align="justify" font-size="14px" color="#45474e" padding-bottom="10px" padding-top="10px" line-height="18px"><a href="https://cancarner.cat/arrelem-can-carner/" style="color:#d03c15">#ArrelemCanCarner</a>, construint un model alternatiu de convivència.</mj-text>
+        <mj-text align="justify" font-size="14px" color="#45474e" padding-bottom="10px" padding-top="10px" line-height="18px">Us deixem els links de les entrevistes dels mitjans de comunicació:</mj-text>
+        <mj-text font-size="14px" color="#45474e" padding-bottom="10px" line-height="18px"><a href="https://radiosabadell.fm/noticia/12-families-impulsen-un-model-diferent-dhabitatge-rehabilitant-una-masia-del-segle-xiii-de" style="color:#d03c15">https://radiosabadell.fm/noticia/12-families-impulsen-un-model-diferent-dhabitatge-rehabilitant-una-masia-del-segle-xiii-de</a></mj-text>
+        <mj-text font-size="14px" color="#45474e" padding-bottom="10px" line-height="18px"><a href="https://www.lactual.cat/uploads/s1/56/62/45/0609-cancarner-habitatgecooperatiu.mpga" style="color:#d03c15">https://www.lactual.cat/uploads/s1/56/62/45/0609-cancarner-habitatgecooperatiu.mpga</a></mj-text>
+        <mj-text font-size="14px" color="#45474e" padding-bottom="10px" line-height="18px"><a href="https://terrassadigital.cat/dotze-families-impulsen-un-model-dhabitatge-cooperatiu-a-la-finca-de-can-carner-de-castellar-del-valles/" style="color:#d03c15">https://terrassadigital.cat/dotze-families-impulsen-un-model-dhabitatge-cooperatiu-a-la-finca-de-can-carner-de-castellar-del-valles/</a></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" full-width="full-width">
+      <mj-column width="100%" vertical-align="middle">
+        <mj-divider border-width="1px" border-style="dashed" border-color="lightgrey" />
+        <mj-text align="left" font-size="10px" color="#9da3a3" padding-bottom="10px" padding-top="0px" line-height="14px">
+          Us hem enviat aquest butlletí perquè en algun moment heu mostrat interès per la Cooperativa. Si no desitgeu rebre'l més, podeu donar-vos de baixa clicant aquest <a href="[LINK_UNSUBSCRIBE]" style="color:#d03c15">enllaç</a>.
+        </mj-text>
+        <mj-text align="justify" font-size="10px" color="#9da3a3" padding-bottom="10px" padding-top="0px" line-height="14px">
+          D'acord amb la Llei Orgànica 15/1999, de 13 de desembre, de Protecció de Dades de Caràcter Personal, vostè és informat de la incorporació de les seves dades en un fitxer automatitzat. El propòsit és gestionar la nostra agenda de contactes, atendre les seves sol·licituds per via electrònica així com a efectes històrics o per informar-lo de les nostres activitats. Igualment, queda informat de la possibilitat d'exercir els drets d'accés, rectificació, cancel·lació i oposició a que les seves dades siguin tractades per Can Carner Cooperativa d'Habitatge, S.C.C.L., adreçant-se a: cancarner@cancarner.cat. Per a més informació consulti la política de privacitat a <a style="color: #9da3a3" href="https://cancarner.cat/cookies">https://cancarner.cat/cookies</a>.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#293744" full-width="full-width">
+      <!-- <mj-column width="50%" vertical-align="middle">
+        <mj-text color="#FFFFFF" align="left"><span style="font-size: 11px" padding="0px"><a href="http://cancarner.cat" style="text-decoration: none; color: inherit;">Can Carner Cooperativa d'Habitatge</a></span></mj-text>
+      </mj-column> -->
+      <mj-column width="100%" vertical-align="middle">
+        <mj-section padding-top="0px" padding-bottom="0px" padding-right="10px" text-align="right">
+          <mj-group width="120px">
+            <mj-column>
+              <mj-image height="20px" width="20px" padding="0px" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/facebook.png" alt="facebook" href="https://www.facebook.com/cancarner/"></mj-image>
+            </mj-column>
+            <mj-column>
+              <mj-image height="20px" width="20px" padding="0px" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/instagram.png" alt="instagram" href="https://www.instagram.com/cancarnercoop/"></mj-image>
+            </mj-column>
+            <mj-column>
+              <mj-image height="20px" width="20px" padding="0px" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/twitter.png" alt="twitter" href="http://twitter.com/cancarner"></mj-image>
+            </mj-column>
+            <mj-column>
+              <mj-image height="20px" width="20px" padding="0px" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/youtube.png" alt="youtube" href="https://www.youtube.com/channel/UCeEZo-Lkz7PREdp_WxZD25Q"></mj-image>
+            </mj-column>
+          </mj-group>
+        </mj-section>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
