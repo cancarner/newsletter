@@ -14,7 +14,7 @@
     </mj-section>
     <mj-section vertical-align="middle" background-color="#d03c15">
       <mj-column width="100%" vertical-align="middle">
-        <mj-text align="center" font-size="14px" color="#ffffff" padding-bottom="0px" padding-top="0px"><span style="font-size: 24px; line-height: 30px;"><b>Tenim 200.000 raons per donar-te les <br/><span style="font-size:30px; line-height: 40px;">GRÀCIES!</span></b></span></mj-text>
+        <mj-text align="center" font-size="14px" color="#ffffff" padding-bottom="0px" padding-top="0px"><span style="font-size: 24px; line-height: 30px;"><b>Tenim 200.000 raons per dir-te<br/><span style="font-size:30px; line-height: 40px;">GRÀCIES!</span></b></span></mj-text>
       </mj-column>
     </mj-section>
     <mj-section vertical-align="middle" background-color="#ffffff">
