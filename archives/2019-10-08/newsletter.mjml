@@ -1,0 +1,66 @@
+<mjml>
+  <mj-body font-family="Roboto, Open Sans, Helvetica, Arial, sans-serif" background-color="#ffffff" width="600px">
+    <mj-section background-color="#293744" full-width="full-width">
+      <mj-column width="100 %" vertical-align="middle">
+        <mj-text color="#FFFFFF" align="right" font-size="11px" padding-bottom="0px" padding-top="0"><span style="font-size: 11px"><a href="[LINK_BROWSER]" style="text-decoration: none; color: inherit;">Si no pots veure aquest butlletí, fes clic aquí</a></span></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" >
+      <mj-column width="33.33333333333333%" vertical-align="middle">
+        <mj-image src="https://cancarner.cat/wp-content/uploads/2019/08/logo_natural.png" alt="Can Carner" padding-bottom="0px" padding-top="0px" href="https://cancarner.cat/"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section vertical-align="middle" background-url="https://cancarner.cat/wp-content/uploads/2019/10/news_n4_header.jpg" background-size="cover" background-repeat="no-repeat" padding-top="250px">
+    </mj-section>
+    <mj-section vertical-align="middle" background-color="#d03c15">
+      <mj-column width="100%" vertical-align="middle">
+        <mj-text align="center" font-size="14px" color="#ffffff" padding-bottom="0px" padding-top="0px"><span style="font-size: 24px; line-height: 30px;"><b>Can Carner avança per<br/>esdevenir una realitat!</span></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section vertical-align="middle" background-color="#ffffff">
+      <mj-column width="100%" vertical-align="middle">
+        <mj-text align="justify" font-size="14px" color="#45474e" padding-bottom="10px" padding-top="10px" line-height="18px">Estem especialment emocionades i contentes de poder compartir amb tu que el primer gran pas de Can Carner Cooperativa d’Habitatge s’ha fet realitat: ja s’ha fet efectiva la compra de la Finca Can Carner i terrenys de Can Cargol.</mj-text>
+        <mj-text align="center" font-size="16px" color="#d03c15" padding-bottom="10px" padding-top="10px" line-height="18px">Ahir, dia 7 d’octubre vam firmar el contracte de compra-venda mitjançant el qual Can Carner Cooperativa d’habitatge n’adquireix la propietat.</mj-text>
+        <mj-text align="justify" font-size="14px" color="#45474e" padding-bottom="10px" padding-top="10px" line-height="18px">Aquest és la primera fita per a poder emprendre aquest il·lusionant projecte que, com saps, té la missió de garantir un <b>habitatge cooperatiu</b> per a totes les sòcies d’ús, així com el <b>desenvolupament de diferents reptes en l’àmbit de l’agroecologia</b> amb intenció que puguin <b>revertir en l’entorn social i comunitari</b>.</mj-text>
+        <mj-text align="justify" font-size="14px" color="#45474e" padding-bottom="0px" padding-top="10px" line-height="18px">No tenim paraules per poder-te donar les gràcies per la teva aportació. Amb la teva ajuda aquest projecte té els fonaments per <b>seguir avançant i esdevenir una alternativa</b> a l’actual model habitacional i social.</mj-text>
+        <mj-text align="center" font-size="16px" color="#d03c15" padding-bottom="10px" padding-top="10px" line-height="18px">Per això, hem pensat que la millor manera que ara mateix tenim d’agrair-t’ho és compartint amb tu la celebració d’aquesta fita.</mj-text>
+        <mj-text align="justify" font-size="14px" color="#45474e" padding-bottom="10px" padding-top="10px" line-height="18px">Així, que ens farà especial il·lusió que puguis estar amb nosaltres, en aquest moment tan emotiu. Hem preparat un espai on podrem festejar petits i grans i brindar conjuntament. Serà un bon moment perquè puguis conèixer la finca i (re)trobar-nos per compartir aquesta gran celebració, amb un munt de sorpreses i activitats a fer.</mj-text>
+        <mj-text align="justify" font-size="14px" color="#45474e" padding-bottom="10px" padding-top="10px" line-height="18px">Adjunt al correu o clicant aquest <a style="color:#d03c15" href="https://mlists.pangea.org/files/template/file/13/cb91e4d76ed8882d9a0bbc19afa7cb54">enllaç</a> pots veure la informació sobre la trobada del dia <b>13 d'octubre</b>. Si no pots venir no et preocupis, hi haurà més oportunitats per veure’ns en persona i poder conèixer la masia.</mj-text>
+        <mj-text align="justify" font-size="14px" color="#45474e" padding-bottom="10px" padding-top="10px" line-height="18px">Aprofitem per recordar-te que la campanya ArrelemCanCarner continua oberta i estem a un {{percentatge que falta}}% d’assolir la nostra fita plantejada. Així que si estàs pensant donar-nos un últim cop de mà, o tens algun conegut o familiar interessat a fer-ho, teniu fins al dia 20 d’octubre per participar-hi.</mj-text>
+        <mj-text align="justify" font-size="14px" color="#45474e" padding-bottom="10px" padding-top="10px" line-height="18px">És per això, que encara que hem arribat al nostre objectiu, hem decidit ampliar la campanya unes setmanes més. La família de Can Carner va creixent i estem emocionades i orgulloses que així sigui.</mj-text>
+        <mj-text align="center" font-size="24px" color="#d03c15" padding-bottom="0px" padding-top="20px" line-height="30px"><b>De nou, t’agraïm que hi siguis i<br/>esperem trobar-nos ben aviat.</b></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" full-width="full-width">
+      <mj-column width="100%" vertical-align="middle">
+        <mj-divider border-width="1px" border-style="dashed" border-color="lightgrey" />
+        <mj-text align="left" font-size="10px" color="#9da3a3" padding-bottom="10px" padding-top="0px" line-height="14px">
+          Us hem enviat aquest butlletí perquè en algun moment heu mostrat interès per la Cooperativa. Si no desitgeu rebre'l més, podeu donar-vos de baixa clicant aquest <a href="[LINK_UNSUBSCRIBE]" style="color:#d03c15">enllaç</a>.
+        </mj-text>
+        <mj-text align="justify" font-size="10px" color="#9da3a3" padding-bottom="10px" padding-top="0px" line-height="14px">
+          D'acord amb la Llei Orgànica 15/1999, de 13 de desembre, de Protecció de Dades de Caràcter Personal, vostè és informat de la incorporació de les seves dades en un fitxer automatitzat. El propòsit és gestionar la nostra agenda de contactes, atendre les seves sol·licituds per via electrònica així com a efectes històrics o per informar-lo de les nostres activitats. Igualment, queda informat de la possibilitat d'exercir els drets d'accés, rectificació, cancel·lació i oposició a que les seves dades siguin tractades per Can Carner Cooperativa d'Habitatge, S.C.C.L., adreçant-se a: cancarner@cancarner.cat. Per a més informació consulti la política de privacitat a <a style="color: #9da3a3" href="https://cancarner.cat/cookies">https://cancarner.cat/cookies</a>.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#293744" full-width="full-width">
+      <mj-column width="100%" vertical-align="middle">
+        <mj-section padding-top="0px" padding-bottom="0px" padding-right="10px" text-align="right">
+          <mj-group width="120px">
+            <mj-column>
+              <mj-image height="20px" width="20px" padding="0px" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/facebook.png" alt="facebook" href="https://www.facebook.com/cancarner/"></mj-image>
+            </mj-column>
+            <mj-column>
+              <mj-image height="20px" width="20px" padding="0px" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/instagram.png" alt="instagram" href="https://www.instagram.com/cancarnercoop/"></mj-image>
+            </mj-column>
+            <mj-column>
+              <mj-image height="20px" width="20px" padding="0px" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/twitter.png" alt="twitter" href="http://twitter.com/cancarner"></mj-image>
+            </mj-column>
+            <mj-column>
+              <mj-image height="20px" width="20px" padding="0px" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/youtube.png" alt="youtube" href="https://www.youtube.com/channel/UCeEZo-Lkz7PREdp_WxZD25Q"></mj-image>
+            </mj-column>
+          </mj-group>
+        </mj-section>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
