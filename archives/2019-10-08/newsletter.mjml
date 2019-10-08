@@ -10,7 +10,10 @@
         <mj-image src="https://cancarner.cat/wp-content/uploads/2019/08/logo_natural.png" alt="Can Carner" padding-bottom="0px" padding-top="0px" href="https://cancarner.cat/"></mj-image>
       </mj-column>
     </mj-section>
-    <mj-section vertical-align="middle" background-url="https://cancarner.cat/wp-content/uploads/2019/10/news_n4_header.jpg" background-size="cover" background-repeat="no-repeat" padding-top="250px">
+    <mj-section background-url="" padding="0px">
+      <mj-column width="100%" vertical-align="middle">
+        <mj-image src="https://cancarner.cat/wp-content/uploads/2019/10/news_n4_header.jpg" padding="0px" fluid-on-mobile="true"></mj-image>
+      </mj-column>
     </mj-section>
     <mj-section vertical-align="middle" background-color="#d03c15">
       <mj-column width="100%" vertical-align="middle">
@@ -25,8 +28,8 @@
         <mj-text align="justify" font-size="14px" color="#45474e" padding-bottom="0px" padding-top="10px" line-height="18px">No tenim paraules per poder-te donar les gràcies per la teva aportació. Amb la teva ajuda aquest projecte té els fonaments per <b>seguir avançant i esdevenir una alternativa</b> a l’actual model habitacional i social.</mj-text>
         <mj-text align="center" font-size="16px" color="#d03c15" padding-bottom="10px" padding-top="10px" line-height="18px">Per això, hem pensat que la millor manera que ara mateix tenim d’agrair-t’ho és compartint amb tu la celebració d’aquesta fita.</mj-text>
         <mj-text align="justify" font-size="14px" color="#45474e" padding-bottom="10px" padding-top="10px" line-height="18px">Així, que ens farà especial il·lusió que puguis estar amb nosaltres, en aquest moment tan emotiu. Hem preparat un espai on podrem festejar petites i grans i brindar conjuntament. Serà un bon moment perquè puguis conèixer la finca i (re)trobar-nos per compartir aquesta gran celebració, amb un munt de sorpreses i activitats a fer.</mj-text>
-        <mj-text align="justify" font-size="14px" color="#45474e" padding-bottom="10px" padding-top="10px" line-height="18px">Adjunt al correu o clicant aquest <a style="color:#d03c15" href="https://mlists.pangea.org/files/template/file/13/cb91e4d76ed8882d9a0bbc19afa7cb54">enllaç</a> pots veure la informació sobre la trobada del dia <b>13 d'octubre</b>. Si no pots venir no et preocupis, hi haurà més oportunitats per veure’ns en persona i poder conèixer la masia.</mj-text>
-        <mj-text align="justify" font-size="14px" color="#45474e" padding-bottom="10px" padding-top="10px" line-height="18px">Aprofitem per recordar-te que la campanya ArrelemCanCarner continua oberta i estem a un {{percentatge que falta}}% d’assolir la nostra fita plantejada. Així que si estàs pensant en donar-nos un últim cop de mà, o tens alguna coneguda o familiar interessada a fer-ho, teniu fins al dia 20 d’octubre per participar-hi.</mj-text>
+        <mj-text align="justify" font-size="14px" color="#45474e" padding-bottom="10px" padding-top="10px" line-height="18px">Adjunt al correu o clicant aquest <a style="color:#d03c15" href="https://cancarner.cat/wp-content/uploads/2019/10/portes_obertes_compra.pdf">enllaç</a> pots veure la informació sobre la trobada del dia <b>13 d'octubre</b>. Si no pots venir no et preocupis, hi haurà més oportunitats per veure’ns en persona i poder conèixer la masia.</mj-text>
+        <mj-text align="justify" font-size="14px" color="#45474e" padding-bottom="10px" padding-top="10px" line-height="18px">Aprofitem per recordar-te que la campanya ArrelemCanCarner continua oberta i estem a un 11% d’assolir la nostra fita plantejada. Així que si estàs pensant en donar-nos un últim cop de mà, o tens alguna coneguda o familiar interessada a fer-ho, teniu fins al dia 20 d’octubre per participar-hi.</mj-text>
         <mj-text align="center" font-size="24px" color="#d03c15" padding-bottom="0px" padding-top="20px" line-height="30px"><b>De nou, t’agraïm que hi siguis i<br/>esperem trobar-nos ben aviat.</b></mj-text>
       </mj-column>
     </mj-section>
