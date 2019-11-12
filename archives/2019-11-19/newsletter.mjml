@@ -10,7 +10,7 @@
         <mj-image src="https://cancarner.cat/wp-content/uploads/2019/08/logo_natural.png" alt="Can Carner" padding-bottom="0px" padding-top="0px" href="https://cancarner.cat/"></mj-image>
       </mj-column>
     </mj-section>
-    <mj-section vertical-align="middle" background-url="https://cancarner.cat/wp-content/uploads/2019/09/news_n3_capçalera-e1568824505364.png" background-size="cover" background-repeat="no-repeat" padding-top="180px">
+    <mj-section vertical-align="middle" background-url="https://cancarner.coop/foto1/" background-size="cover" background-repeat="no-repeat" padding-top="180px">
     </mj-section>
     <mj-section vertical-align="middle" background-color="#d03c15">
       <mj-column width="100%" vertical-align="middle">
@@ -32,7 +32,7 @@ Can Carner avança</b></span></mj-text>
         <mj-text align="justify" font-size="14px" color="#45474e" padding-bottom="10px" padding-top="10px" line-height="18px">Va ser tota una jornada plena de vàlua on vam poder conèixer, debatre i interactuar sobre l'habitatge cooperatiu amb persones amb molta expertesa. Ens n'enduem un munt d'agraïment i aprenentatges per aquesta generositat en compartir reflexions i sinergies.</mj-text>
         <mj-text align="justify" font-size="14px" color="#45474e" padding-bottom="10px" padding-top="10px" line-height="18px">Com veus, la feina no ens treu ni l'entusiasme ni l'alegria de seguir treballant en aquest projecte que en els següents mesos ens portarà a iniciar el procés participatiu intern, que ens ajudarà a establir els fonaments de la nostra convivència.</mj-text>
         <mj-text align="center" font-size="24px" color="#d03c15" padding-bottom="20px" padding-top="20px" line-height="30px"><b>Et mantindrem informada!</b></mj-text>
-        <mj-image src="https://cancarner.cat/can-carner/" alt="Can Carner" padding-bottom="0px" padding-top="0px" href="https://cancarner.cat/"></mj-image>
+        <mj-image src="https://cancarner.coop/foto2/" alt="Can Carner" padding-bottom="0px" padding-top="0px" href="https://cancarner.cat/"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff" full-width="full-width">
