@@ -7,7 +7,7 @@
      </mj-section>
      <mj-section background-color="#ffffff">
        <mj-column width="33.33333333333333%" vertical-align="middle">
-         <mj-image src="https://cancarner.cat/wp-content/uploads/2019/08/logo_natural.png" alt="Can Carner" padding-bottom="0px" padding-top="0px" href="https://cancarner.cat/"></mj-image>
+         <mj-image src="https://cancarner.coop/wp-content/uploads/2019/08/logo_natural.png" alt="Can Carner" padding-bottom="0px" padding-top="0px" href="https://cancarner.coop/"></mj-image>
        </mj-column>
      </mj-section>
      <mj-hero height="400px" background-url="https://cancarner.coop/presseguer/" background-position="bottom">
@@ -25,14 +25,14 @@
          <mj-text align="justify" font-size="14px" color="#45474e" padding-bottom="10px" padding-top="10px" line-height="18px">Aquestes setmanes de recessió, ens han fet reinventar-nos també a nosaltres i aprendre noves metodologies de treball. Gràcies a les videotrucades grupals hem pogut seguir avançant amb el projecte, fins a la definició dels espais tant comunitaris com privatius, arribant a fer l'assignació d'habitatges de cada una de les dotze famílies. </mj-text>
          <mj-text align="justify" font-size="14px" color="#45474e" padding-bottom="0px" padding-top="10px" line-height="18px">Aquests últims mesos hem passat per moments complicats i com a grup ens estem refent, amb la mirada humil d'aprendre dels errors i que aquesta experiència pugui transformar-se en aprenentatge col·lectiu. Entre el dol i alegria, ens trobem desitjosos de començar a veure moviment a la masia. Estem programant com fer buidatge de la casa per tal de preparar-la per la seva transformació, us explicarem més àmpliament en propers contactes.</mj-text>
          <mj-text align="justify" font-size="16px" color="#d03c15" padding-bottom="10px" padding-top="10px" line-height="22px">Estem desitjant poder obrir les portes d'aquest espai preciós per totes vosaltres.</mj-text>
-        <mj-image src="https://cancarner.coop/hort/" alt="Can Carner" padding-bottom="0px" padding-top="20px" href="https://cancarner.cat/"></mj-image>
+        <mj-image src="https://cancarner.coop/hort/" alt="Can Carner" padding-bottom="0px" padding-top="20px" href="https://cancarner.coop/"></mj-image>
        </mj-column>
      </mj-section>
      <mj-section background-color="#ffffff" full-width="full-width">
        <mj-column width="100%" vertical-align="middle">
          <mj-divider border-width="1px" border-style="dashed" border-color="lightgrey" />
          <mj-text align="left" font-size="10px" color="#9da3a3" padding-bottom="10px" padding-top="0px" line-height="14px"> Us hem enviat aquest butlletí perquè en algun moment heu mostrat interès per la Cooperativa. Si no desitgeu rebre'l més, podeu donar-vos de baixa clicant aquest <a href="[LINK_UNSUBSCRIBE]" style="color:#d03c15">enllaç</a>. </mj-text>
-         <mj-text align="justify" font-size="10px" color="#9da3a3" padding-bottom="10px" padding-top="0px" line-height="14px"> D'acord amb la Llei Orgànica 15/1999, de 13 de desembre, de Protecció de Dades de Caràcter Personal, vostè és informat de la incorporació de les seves dades en un fitxer automatitzat. El propòsit és gestionar la nostra agenda de contactes, atendre les seves sol·licituds per via electrònica així com a efectes històrics o per informar-lo de les nostres activitats. Igualment, queda informat de la possibilitat d'exercir els drets d'accés, rectificació, cancel·lació i oposició a que les seves dades siguin tractades per Can Carner Cooperativa d'Habitatge, S.C.C.L., adreçant-se a: cancarner@cancarner.cat. Per a més informació consulti la política de privacitat a <a style="color: #9da3a3" href="https://cancarner.cat/cookies">https://cancarner.cat/cookies</a>. </mj-text>
+         <mj-text align="justify" font-size="10px" color="#9da3a3" padding-bottom="10px" padding-top="0px" line-height="14px"> D'acord amb la Llei Orgànica 15/1999, de 13 de desembre, de Protecció de Dades de Caràcter Personal, vostè és informat de la incorporació de les seves dades en un fitxer automatitzat. El propòsit és gestionar la nostra agenda de contactes, atendre les seves sol·licituds per via electrònica així com a efectes històrics o per informar-lo de les nostres activitats. Igualment, queda informat de la possibilitat d'exercir els drets d'accés, rectificació, cancel·lació i oposició a que les seves dades siguin tractades per Can Carner Cooperativa d'Habitatge, S.C.C.L., adreçant-se a: cancarner@cancarner.coop. Per a més informació consulti la política de privacitat a <a style="color: #9da3a3" href="https://cancarner.coop/cookies">https://cancarner.coop/cookies</a>. </mj-text>
        </mj-column>
      </mj-section>
      <mj-section background-color="#293744" full-width="full-width" padding-top="20px" padding-bottom="20px" padding-right="20px" text-align="center">
