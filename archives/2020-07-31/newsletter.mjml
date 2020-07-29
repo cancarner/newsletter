@@ -1,0 +1,61 @@
+<mjml>
+  <mj-body background-color="#ffffff" width="600px">
+    <mj-section background-color="#293744" full-width="full-width">
+      <mj-column width="100%" vertical-align="middle">
+        <mj-text color="#FFFFFF" align="right" font-size="11px" padding-bottom="0px" padding-top="0"><span style="font-size: 11px"><a href="[LINK_BROWSER]" style="text-decoration: none; color: inherit;">Si no pots veure aquest butlletí, fes clic aquí</a></span></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff">
+      <mj-column width="33.33333333333333%" vertical-align="middle">
+        <mj-image src="https://cancarner.coop/wp-content/uploads/2019/08/logo_natural.png" alt="Can Carner" padding-bottom="0px" padding-top="0px" href="https://cancarner.coop/"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff">
+      <mj-column width="100%">
+        <mj-text align="justify" font-size="14px" color="#45474e" padding-bottom="10px" padding-top="10px" line-height="22px">Sabem que Sant Joan és una data especial per Can Carner. A banda de ser la festa del barri hem pogut esbrinar que, tradicionalment i des de ben antic, aquesta era la data per excel·lència per a la trobada, el ball i el festeig a l’era de la masia.
+        </mj-text>
+        <mj-text align="justify" font-size="14px" color="#45474e" padding-bottom="10px" padding-top="10px" line-height="18px">Així ha estat per nosaltres aquest any també. La nit més llarga de l’any va coincidir amb el tan esperat retrobament presencial de totes les sòcies d’ús de la cooperativa, limitat fins aleshores pel confinament.</mj-text>
+        <mj-text align="justify" font-size="14px" color="#45474e" padding-bottom="10px" padding-top="10px" line-height="18px">Dels treballs previs de neteja i buidatge de la masia en va sortir la foguera, que amb tota la consciència ens va aplegar al voltant, entre converses i silencis observants de la meravella del foc.</mj-text>
+        <mj-image src="https://cancarner.coop/foguera-sant-joan-1/" alt="Can Carner" padding-bottom="0px" padding-top="20px" href="https://cancarner.coop/"></mj-image>
+        <mj-text align="justify" font-size="14px" color="#45474e" padding-bottom="10px" padding-top="10px" line-height="18px">Amb l’estiu, arriba també una nova etapa en aquest esdevenir, en la que les jornades de treball n’estan sent les protagonistes. La masia necessitava un manteniment general que estem iniciant amb hores i hores d’aprenentatges i treballs manuals,
+          artesanals i rústics en comunió.</mj-text>
+        <mj-text align="justify" font-size="14px" color="#45474e" padding-bottom="0px" padding-top="10px" line-height="18px">L’hort ha començat, imparable, a regalar-nos fruits amb el gust dolç de les hores dedicades, de genolls a terra, d’hores sota el sol i vesprades de reg.</mj-text>
+        <mj-text align="justify" font-size="14px" color="#45474e" padding-bottom="0px" padding-top="10px" line-height="18px">El buidatge de la masia està finalitzant i, amb aquest, una notícia fresca!</mj-text>
+        <mj-text align="center" font-size="16px" color="#d03c15" padding-bottom="10px" padding-top="10px" line-height="22px"><span style="font-size: 20px; line-height: 30px;"><b>Amb l’excusa de les portes obertes, que anàvem tenint ganes de fer, aprofitarem per fer un petit mercat solidari. Guardeu-vos el matí del 20 de setembre que tenim ganes de retrobar-vos!</b></span></mj-text>
+        <mj-text align="justify" font-size="14px" color="#45474e" padding-bottom="0px" padding-top="10px" line-height="18px">Tanmateix a principis de setembre i veient les recomanacions sanitàries, us confirmarem la data. Estigueu atentes!</mj-text>
+        <mj-text align="justify" font-size="14px" color="#45474e" padding-bottom="0px" padding-top="10px" line-height="18px">Per altra banda, ens hem posat en contacte amb les persones que vau participar de la campanya de títols participatius per tal de fer-vos arribar els interessos generats aquest any. Si tens algun dubte, amb relació a aquest tema o no t’ha arribat
+          el correu, pots posar-te en contacte amb nosaltres a través de participa@cancarner.coop.</mj-text>
+        <mj-text align="justify" font-size="14px" color="#45474e" padding-bottom="0px" padding-top="10px" line-height="18px">Aviat farà un any de la posada en marxa de la campanya de títols participatius, que va permetre fer efectiva la compra de Can Carner i per tant aquest projecte i no podem estar més agraïdes de la confiança que vas dipositar en totes nosaltres.</mj-text>
+        <mj-text align="justify" font-size="14px" color="#45474e" padding-bottom="0px" padding-top="10px" line-height="18px">Gràcies infinites!</mj-text>
+        <mj-image src="https://cancarner.coop/treball-hort/" alt="Can Carner" padding-bottom="0px" padding-top="20px" href="https://cancarner.coop/"></mj-image>
+        <mj-text align="center" font-size="16px" color="#d03c15" padding-bottom="10px" padding-top="10px" line-height="22px"><span style="font-size: 20px; line-height: 30px;"><b>Que tingueu un bon estiu!</b></span></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" full-width="full-width">
+      <mj-column width="100%" vertical-align="middle">
+        <mj-divider border-width="1px" border-style="dashed" border-color="lightgrey" />
+        <mj-text align="left" font-size="10px" color="#9da3a3" padding-bottom="10px" padding-top="0px" line-height="14px"> Us hem enviat aquest butlletí perquè en algun moment heu mostrat interès per la Cooperativa. Si no desitgeu rebre'l més, podeu donar-vos de baixa clicant aquest <a href="[LINK_UNSUBSCRIBE]" style="color:#d03c15">enllaç</a>. </mj-text>
+        <mj-text align="justify" font-size="10px" color="#9da3a3" padding-bottom="10px" padding-top="0px" line-height="14px"> D'acord amb la Llei Orgànica 15/1999, de 13 de desembre, de Protecció de Dades de Caràcter Personal, vostè és informat de la incorporació de les seves dades en un fitxer automatitzat. El propòsit és gestionar la nostra agenda de contactes, atendre
+          les seves sol·licituds per via electrònica així com a efectes històrics o per informar-lo de les nostres activitats. Igualment, queda informat de la possibilitat d'exercir els drets d'accés, rectificació, cancel·lació i oposició a que les seves
+          dades siguin tractades per Can Carner Cooperativa d'Habitatge, S.C.C.L., adreçant-se a: cancarner@cancarner.coop. Per a més informació consulti la política de privacitat a <a style="color: #9da3a3" href="https://cancarner.coop/cookies">https://cancarner.coop/cookies</a>.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#293744" full-width="full-width" padding-top="20px" padding-bottom="20px" padding-right="20px" text-align="center">
+      <mj-group width="120px">
+        <mj-column>
+          <mj-image height="20px" width="20px" padding="0px" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/facebook.png" alt="facebook" href="https://www.facebook.com/cancarner/"></mj-image>
+        </mj-column>
+        <mj-column>
+          <mj-image height="20px" width="20px" padding="0px" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/instagram.png" alt="instagram" href="https://www.instagram.com/cancarnercoop/"></mj-image>
+        </mj-column>
+        <mj-column>
+          <mj-image height="20px" width="20px" padding="0px" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/twitter.png" alt="twitter" href="http://twitter.com/cancarner"></mj-image>
+        </mj-column>
+        <mj-column>
+          <mj-image height="20px" width="20px" padding="0px" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/youtube.png" alt="youtube" href="https://www.youtube.com/channel/UCeEZo-Lkz7PREdp_WxZD25Q"></mj-image>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+  </mj-body>
+</mjml>
