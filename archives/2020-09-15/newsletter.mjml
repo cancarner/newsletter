@@ -1,0 +1,62 @@
+<mjml>
+  <mj-body background-color="#ffffff" width="600px">
+    <mj-section background-color="#293744" full-width="full-width">
+      <mj-column width="100%" vertical-align="middle">
+        <mj-text color="#FFFFFF" align="right" font-size="11px" padding-bottom="0px" padding-top="0"><span style="font-size: 11px"><a href="[LINK_BROWSER]" style="text-decoration: none; color: inherit;">Si no pots veure aquest butlletí, fes clic aquí</a></span></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff">
+      <mj-column width="33.33333333333333%" vertical-align="middle">
+        <mj-image src="https://cancarner.coop/wp-content/uploads/2019/08/logo_natural.png" alt="Can Carner" padding-bottom="0px" padding-top="0px" href="https://cancarner.coop/"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-hero height="400px" background-url="https://cancarner.coop/wp-content/uploads/2020/09/2020-09-10-00-53-13-1.jpg" background-position="bottom">
+    </mj-hero>
+    <mj-section background-color="#d03c15">
+      <mj-column width="100%" vertical-align="middle">
+        <mj-text align="center" font-size="14px" color="#ffffff" padding-bottom="0px" padding-top="0px"><span style="font-size: 24px; line-height: 30px;"><b>Posposades les portes obertes a Can Carner</b></span></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff">
+      <mj-column width="100%">
+        <mj-text align="justify" font-size="14px" color="#45474e" padding-bottom="10px" padding-top="10px" line-height="18px">L'acabament de les vacances porta olor de la proximitat de la tardor. De nou, la naturalesa ens parla dels seus ritmes, aquesta vegada demanant-nos la paciència i dedicació de recollir els fruits dels ametllers, que fa poc més de mig any guarnia els prats i camps amb les seves boniques flors.</mj-text> 	
+        <<mj-text align="justify" font-size="16px" color="#d03c15" padding-bottom="10px" padding-top="10px" line-height="22px">Teníem el desig d'iniciar aquest curs amb un dia de portes obertes. Així us ho vam anunciar al butlletí de juliol. Després de valorar-ho internament amb les novetats i el desenvolupament de la crisi sanitària que estem travessant, hem considerat, mal ens pesi, que hem de posposar aquest esdeveniment.</mj-text>
+        
+        <mj-text align="justify" font-size="14px" color="#45474e" padding-bottom="10px" padding-top="10px" line-height="18px">Tanmateix, la il·lusió i ganes segueixen presents, de manera que resteu alerta perquè tant bon punt la situació ho permeti celebrarem conjuntament a Can Carner el desitjat retrobament!</mj-text>
+        <mj-text align="justify" font-size="14px" color="#45474e" padding-bottom="10px" padding-top="10px" line-height="18px">Després del període vacacional, és temps també de reprendre projectes parats, idees pendents de materialitzar i tornar a donar ritme a l'engranatge que fa avançar Can Carner. Hem reposat, venim amb energia!</mj-text>
+        <mj-text align="justify" font-size="14px" color="#45474e" padding-bottom="0px" padding-top="10px" line-height="18px">I entre les principals novetats, us volem explicar que:
+          <ul>
+            <li>Per fi hem pogut entregar tota la documentació necessària a la banca ètica a la que hem sol·licitat el crèdit per a dur a terme la reforma de la masia  principal. I ara ens trobem serenament impacients a l'espera de notícies</li>
+            <li>A l'agost vam repartir els interessos a les persones que ens van donar suport en  la campanya de Títols Participatius.</li>
+            <li>Hem iniciat un procés d'acompanyament grupal per a poder ajudar-nos en aquest repte de la convivència de la vida en comunitat i ens sentim amb moltes ganes de seguir treballant per a poder aprendre a transitar les diferents situacions que ens vagin venint de forma respectuosa i amorosa amb nosaltres mateixes i amb la resta.</li>
+            <li>Finalment us anunciem que estem posant fil a l'agulla a la preparació de la 1a Assemblea General Ordinària (AGO) on estareu convidades totes les sòcies de la Cooperativa. Us farem arribar notícies més detallades en breu!</li>
+          </ul>
+        </mj-text>
+        <mj-text align="justify" font-size="16px" color="#d03c15" padding-bottom="10px" padding-top="10px" line-height="22px">Amb el desig que hàgiu tingut unes vacances generoses i retorneu amb les piles carregades per a tirar endavant els vostres projectes!</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" full-width="full-width">
+      <mj-column width="100%" vertical-align="middle">
+        <mj-divider border-width="1px" border-style="dashed" border-color="lightgrey" />
+        <mj-text align="left" font-size="10px" color="#9da3a3" padding-bottom="10px" padding-top="0px" line-height="14px"> Us hem enviat aquest butlletí perquè en algun moment heu mostrat interès per la Cooperativa. Si no desitgeu rebre'l més, podeu donar-vos de baixa clicant aquest <a href="[LINK_UNSUBSCRIBE]" style="color:#d03c15">enllaç</a>. </mj-text>
+        <mj-text align="justify" font-size="10px" color="#9da3a3" padding-bottom="10px" padding-top="0px" line-height="14px"> D'acord amb la Llei Orgànica 15/1999, de 13 de desembre, de Protecció de Dades de Caràcter Personal, vostè és informat de la incorporació de les seves dades en un fitxer automatitzat. El propòsit és gestionar la nostra agenda de contactes, atendre les seves sol·licituds per via electrònica així com a efectes històrics o per informar-lo de les nostres activitats. Igualment, queda informat de la possibilitat d'exercir els drets d'accés, rectificació, cancel·lació i oposició a que les seves dades siguin tractades per Can Carner Cooperativa d'Habitatge, S.C.C.L., adreçant-se a: cancarner@cancarner.coop. Per a més informació consulti la política de privacitat a <a style="color: #9da3a3" href="https://cancarner.coop/cookies">https://cancarner.coop/cookies</a>. </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#293744" full-width="full-width" padding-top="20px" padding-bottom="20px" padding-right="20px" text-align="center">
+      <mj-group width="120px">
+        <mj-column>
+          <mj-image height="20px" width="20px" padding="0px" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/facebook.png" alt="facebook" href="https://www.facebook.com/cancarner/"></mj-image>
+        </mj-column>
+        <mj-column>
+          <mj-image height="20px" width="20px" padding="0px" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/instagram.png" alt="instagram" href="https://www.instagram.com/cancarnercoop/"></mj-image>
+        </mj-column>
+        <mj-column>
+          <mj-image height="20px" width="20px" padding="0px" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/twitter.png" alt="twitter" href="http://twitter.com/cancarner"></mj-image>
+        </mj-column>
+        <mj-column>
+          <mj-image height="20px" width="20px" padding="0px" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/youtube.png" alt="youtube" href="https://www.youtube.com/channel/UCeEZo-Lkz7PREdp_WxZD25Q"></mj-image>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+  </mj-body>
+</mjml>
