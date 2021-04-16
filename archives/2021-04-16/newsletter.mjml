@@ -1,0 +1,56 @@
+<mjml>
+  <mj-body background-color="#ffffff" width="600px">
+    <mj-section background-color="#293744" full-width="full-width">
+      <mj-column width="100%" vertical-align="middle">
+        <mj-text color="#FFFFFF" align="right" font-size="11px" padding-bottom="0px" padding-top="0"><span style="font-size: 11px"><a href="[LINK_BROWSER]" style="text-decoration: none; color: inherit;">Si no pots veure aquest butlletí, fes clic aquí</a></span></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff">
+      <mj-column width="33.33333333333333%" vertical-align="middle">
+        <mj-image src="https://cancarner.coop/wp-content/uploads/2019/08/logo_natural.png" alt="Can Carner" padding-bottom="0px" padding-top="0px" href="https://cancarner.coop/"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff">
+      <mj-column width="100%">
+        <mj-text align="justify" font-size="14px" color="#45474e" padding-bottom="10px" padding-top="10px" line-height="18px">Benvinguda primavera!</mj-text>
+        <mj-text align="justify" font-size="14px" color="#45474e" padding-bottom="10px" padding-top="10px" line-height="18px">Can Carner ha recuperat els colors de les flors que s’obren camí, al mateix ritme que els raigs de sol prenen minuts al dia. I, nosaltres estem encantades en poder passar més temps en aquest entorn meravellós!</mj-text>
+        <mj-text align="justify" font-size="14px" color="#45474e" padding-bottom="10px" padding-top="10px" line-height="18px">A l’entrar a la masia, vam trobar-nos amb tot un seguit de mobles i objectes que nosaltres a dia d’avui no podem mantenir. Per nosaltres no només tenen un valor històric i patrimonial, molts d’ells, sinó que també tenen un valor simbòlic. I és per aquest motiu que ens agradaria que aquest material pogués acabar arribant a mans amigues i conegudes.</mj-text>
+        <mj-text align="center" font-size="16px" font-weight="bold" color="#d03c15" padding-bottom="10px" padding-top="10px" line-height="22px">Us passem <a style="color:#d03c15;text-decoration: underline" href="https://cancarner.coop/wp-content/uploads/encants-can-carner.pdf" target="blank">aquest enllaç</a> amb la informació del que hi ha disponible per vendre, que ens ajudarà a seguir ampliant i fent créixer el projecte.</mj-text>
+        <mj-text align="justify" font-size="14px" color="#45474e" padding-bottom="10px" padding-top="10px" line-height="18px">Si estàs interessada en alguna de les peces de mobiliari o objectes que presentem a continuació, pots trucar o escriure per whatsapp/telegram al 617 538 167, dient el número d'article del/s moble/s que vols per així acordar el procediment de recollida.</mj-text>
+        <mj-text align="center" font-size="16px" font-weight="bold" color="#d03c15" padding-bottom="10px" padding-top="10px" line-height="22px">Bo, bonic, barat i... cooperatiu!</mj-text>
+        <mj-image src="https://cancarner.coop/wp-content/uploads/2021/04/primavera-2021.jpg" alt="Primavera a Can Carner"></mj-image>
+        <mj-text align="justify" font-size="14px" color="#45474e" padding-bottom="10px" padding-top="10px" line-height="18px">Així com l’esclat de la natura, aquestes darreres setmanes nosaltres ens hem expandit donant-nos a conèixer i aportant la nostra visió i experiència amb la participació a algunes xerrades i debats als quals hem estat convidades.</mj-text>
+        <mj-text align="justify" font-size="14px" color="#45474e" padding-bottom="10px" padding-top="10px" line-height="18px">Entre elles hem respost a l’entrevista de Radio Euskadi, podeu trobar l’enllaç <a style="color:#d03c15;text-decoration: underline" href="https://www.eitb.tv/es/radio/radio-euskadi/la-casa-de-la-palabra/7466421/7916925/migrantes-y-espanoles-vivir-en-comunidad-dentistas-en-senegal/" target="blank">aquí</a> (a partir del 20:40). O bé, amb la participació a la Taula d’experiències sobre habitatge organitzat per Cucúrbita.</mj-text>
+        <mj-text align="justify" font-size="14px" color="#45474e" padding-bottom="10px" padding-top="10px" line-height="18px">Si estàs amb ganes d’escoltar-nos, tens una oportunitat properament. El dia 28 d’abril de 10h a 13h, estarem participant a un webinar sobre processos de cerca de finançament de cooperatives. Si t’interessa, pots trobar la informació <a style="color:#d03c15;text-decoration: underline" href="https://sostrecivic.coop/webinar-sobre-financament-de-lhabitatge-cooperatiu/" target="blank">aquí</a>.</mj-text>
+        <mj-text align="center" font-size="16px" font-weight="bold" color="#d03c15" padding-bottom="10px" padding-top="10px" line-height="22px">Ens encanta poder explicar la nostra experiència i esperem poder ser font d’inspiració per molts nous projectes!</mj-text>
+        <mj-text align="justify" font-size="14px" color="#45474e" padding-bottom="10px" padding-top="10px" line-height="18px">Ja veus que seguim animades, avançant perquè el projecte no s’aturi!</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" full-width="full-width">
+      <mj-column width="100%" vertical-align="middle">
+        <mj-divider border-width="1px" border-style="dashed" border-color="lightgrey" />
+        <mj-text align="left" font-size="10px" color="#9da3a3" padding-bottom="10px" padding-top="0px" line-height="14px"> Us hem enviat aquest butlletí perquè en algun moment heu mostrat interès per la Cooperativa. Si no desitgeu rebre'l més, podeu donar-vos de baixa clicant aquest <a href="[LINK_UNSUBSCRIBE]" style="color:#9da3a3">enllaç</a>. </mj-text>
+        <mj-text align="justify" font-size="10px" color="#9da3a3" padding-bottom="10px" padding-top="0px" line-height="14px"> D'acord amb la Llei Orgànica 15/1999, de 13 de desembre, de Protecció de Dades de Caràcter Personal, vostè és informat de la incorporació de les seves dades en un fitxer automatitzat. El propòsit és gestionar la nostra agenda de contactes, atendre
+          les seves sol·licituds per via electrònica així com a efectes històrics o per informar-lo de les nostres activitats. Igualment, queda informat de la possibilitat d'exercir els drets d'accés, rectificació, cancel·lació i oposició a que les seves
+          dades siguin tractades per Can Carner Cooperativa d'Habitatge, S.C.C.L., adreçant-se a: <a style="color: #9da3a3" href="mailto:cancarner@cancarner.coop">cancarner@cancarner.coop</a>. Per a més informació consulti la política de privacitat a <a style="color: #9da3a3" href="https://cancarner.coop/cookies">https://cancarner.coop/cookies</a>.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#293744" full-width="full-width" padding-top="20px" padding-bottom="20px" padding-right="20px" text-align="center">
+      <mj-group width="120px">
+        <mj-column>
+          <mj-image height="20px" width="20px" padding="0px" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/facebook.png" alt="facebook" href="https://www.facebook.com/cancarner/"></mj-image>
+        </mj-column>
+        <mj-column>
+          <mj-image height="20px" width="20px" padding="0px" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/instagram.png" alt="instagram" href="https://www.instagram.com/cancarnercoop/"></mj-image>
+        </mj-column>
+        <mj-column>
+          <mj-image height="20px" width="20px" padding="0px" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/twitter.png" alt="twitter" href="http://twitter.com/cancarner"></mj-image>
+        </mj-column>
+        <mj-column>
+          <mj-image height="20px" width="20px" padding="0px" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/youtube.png" alt="youtube" href="https://www.youtube.com/channel/UCeEZo-Lkz7PREdp_WxZD25Q"></mj-image>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+  </mj-body>
+</mjml>
