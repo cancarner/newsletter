@@ -1,0 +1,56 @@
+<mjml>
+  <mj-body background-color="#ffffff" width="600px">
+    <mj-section background-color="#293744" full-width="full-width">
+      <mj-column width="100%" vertical-align="middle">
+        <mj-text color="#FFFFFF" align="right" font-size="11px" padding-bottom="0px" padding-top="0"><span style="font-size: 11px"><a href="[LINK_BROWSER]" style="text-decoration: none; color: inherit;">Si no pots veure aquest butlletí, fes clic aquí</a></span></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff">
+      <mj-column width="33.33333333333333%" vertical-align="middle">
+        <mj-image src="https://cancarner.coop/wp-content/uploads/2019/08/logo_natural.png" alt="Can Carner" padding-bottom="0px" padding-top="0px" href="https://cancarner.coop/"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff">
+      <mj-column width="100%">
+        <mj-text align="center" font-size="16px" font-weight="bold" color="#d03c15" padding-bottom="10px" padding-top="10px" line-height="22px">Tenim notícies fresques que ens ajuden a suportar millor la calor d’aquest estiu... i no volíem deixar de compartir-les amb tu!</mj-text>
+        <mj-text align="justify" font-size="14px" color="#45474e" padding-bottom="10px" padding-top="10px" line-height="18px">Compartir plegades per la revetlla de Sant Joan s’està instaurant com a tradició a Can Carner. I aquest any hem pogut brindar i celebrar per un munt de motius. </mj-text>
+        <mj-image src="https://cancarner.coop/wp-content/uploads/2021/07/santjoan2021.jpg" alt="Sant Joan 2021"></mj-image>
+        <mj-text align="justify" font-size="14px" color="#45474e" padding-bottom="10px" padding-top="10px" line-height="18px">Portem poc més d’un any gestionant, paral·lelament al finançament, tot el que refereix als permisos necessaris per a poder tirar endavant les obres. Durant tot aquest temps hem tingut el suport de molta gent però volem destacar la bona sintonia que hem tingut amb l’ajuntament de Castellar del Vallès, tant a nivell tècnic com polític. Dona gust crear un projecte així sabent que des del poble es veu com una oportunitat.</mj-text>
+        <mj-text align="center" font-size="16px" font-weight="bold" color="#d03c15" padding-bottom="10px" padding-top="10px" line-height="22px">Finalment, el 4 de juny va ser aprovat per part d’Urbanisme de la Generalitat el Projecte d’actuació específica (PAE). I amb aquest tràmit acceptat, la Junta de Govern Local de l’Ajuntament de Castellar del Vallès ha aprovat, aquest 22 de juny, concedir-nos la llicencia d’obra de la Rehabilitació de la Masia de Can Carner a partir del Projecte Bàsic.</mj-text>
+        <mj-text align="justify" font-size="14px" color="#45474e" padding-bottom="10px" padding-top="10px" line-height="18px">D’aquesta manera podem dir que oficialment Can Carner ja te llicencia per a fer les reformes i convertir-se en una de les primeres cooperatives d’habitatge en cessió d’ús, en sòl rústic i finca privada sense catàleg de masies (amb totes les problemàtiques que implicaven).</mj-text>
+        <mj-text align="justify" font-size="14px" color="#45474e" padding-bottom="10px" padding-top="10px" line-height="18px">Estem molt contentes de poder obrir camí en el món de les cooperatives d’habitatge en cessió d’ús, i poder oferir un exemple a seguir en finques rústiques, que ajudi a mantenir el patrimoni singular en desús del nostre territori.</mj-text>
+        <mj-text align="center" font-size="16px" font-weight="bold" color="#d03c15" padding-bottom="10px" padding-top="10px" line-height="22px">Aquesta és una gran fita per la Cooperativa!</mj-text>
+        <mj-text align="justify" font-size="14px" color="#45474e" padding-bottom="10px" padding-top="10px" line-height="18px">Amb aquests permisos aprovats estem a tocar de poder començar la reforma de la masia principal de Can Carner! I, de nou, et fas present en aquesta nova celebració. Gràcies infinites per la teva confiança i suport.</mj-text>
+        <mj-image src="https://cancarner.coop/wp-content/uploads/2021/07/ago2021.jpg" alt="AGO 2021"></mj-image>
+        <mj-text align="justify" font-size="14px" color="#45474e" padding-bottom="10px" padding-top="10px" line-height="18px">Per altra banda, volem compartir que ja hem celebrat la segona Assemblea general ordinària. Assemblea que se celebra anualment i en la que hi poden participar totes les sòcies. A banda de presentar les activitats més rellevant dutes a terme de les diferents comissions durant l’any, s’han aprovat els comptes anuals de l’exercici 2020.</mj-text>
+        <mj-text align="center" font-size="16px" font-weight="bold" color="#d03c15" padding-bottom="10px" padding-top="10px" line-height="22px">Esperem, que com nosaltres, puguis marxar de vacances per descansar i recobrar energia per seguir amb les teves motivacions i somnis!</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" full-width="full-width">
+      <mj-column width="100%" vertical-align="middle">
+        <mj-divider border-width="1px" border-style="dashed" border-color="lightgrey" />
+        <mj-text align="left" font-size="10px" color="#9da3a3" padding-bottom="10px" padding-top="0px" line-height="14px"> Us hem enviat aquest butlletí perquè en algun moment heu mostrat interès per la Cooperativa. Si no desitgeu rebre'l més, podeu donar-vos de baixa clicant aquest <a href="[LINK_UNSUBSCRIBE]" style="color:#d03c15">enllaç</a>. </mj-text>
+        <mj-text align="justify" font-size="10px" color="#9da3a3" padding-bottom="10px" padding-top="0px" line-height="14px"> D'acord amb la Llei Orgànica 15/1999, de 13 de desembre, de Protecció de Dades de Caràcter Personal, vostè és informat de la incorporació de les seves dades en un fitxer automatitzat. El propòsit és gestionar la nostra agenda de contactes, atendre
+          les seves sol·licituds per via electrònica així com a efectes històrics o per informar-lo de les nostres activitats. Igualment, queda informat de la possibilitat d'exercir els drets d'accés, rectificació, cancel·lació i oposició a que les seves
+          dades siguin tractades per Can Carner Cooperativa d'Habitatge, S.C.C.L., adreçant-se a: cancarner@cancarner.coop. Per a més informació consulti la política de privacitat a <a style="color: #9da3a3" href="https://cancarner.coop/cookies">https://cancarner.coop/cookies</a>.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#293744" full-width="full-width" padding-top="20px" padding-bottom="20px" padding-right="20px" text-align="center">
+      <mj-group width="120px">
+        <mj-column>
+          <mj-image height="20px" width="20px" padding="0px" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/facebook.png" alt="facebook" href="https://www.facebook.com/cancarner/"></mj-image>
+        </mj-column>
+        <mj-column>
+          <mj-image height="20px" width="20px" padding="0px" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/instagram.png" alt="instagram" href="https://www.instagram.com/cancarnercoop/"></mj-image>
+        </mj-column>
+        <mj-column>
+          <mj-image height="20px" width="20px" padding="0px" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/twitter.png" alt="twitter" href="http://twitter.com/cancarner"></mj-image>
+        </mj-column>
+        <mj-column>
+          <mj-image height="20px" width="20px" padding="0px" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/youtube.png" alt="youtube" href="https://www.youtube.com/channel/UCeEZo-Lkz7PREdp_WxZD25Q"></mj-image>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+  </mj-body>
+</mjml>
