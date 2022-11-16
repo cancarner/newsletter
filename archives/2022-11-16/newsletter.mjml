@@ -1,0 +1,59 @@
+<mjml>
+  <mj-body background-color="#ffffff" width="600px">
+    <mj-section background-color="#293744" full-width="full-width">
+      <mj-column width="100%" vertical-align="middle">
+        <mj-text color="#FFFFFF" align="right" font-size="11px" padding-bottom="0px" padding-top="0"><span style="font-size: 11px"><a href="[LINK_BROWSER]" style="text-decoration: none; color: inherit;">Si no pots veure aquest butlletí, fes clic aquí</a></span></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff">
+      <mj-column width="33.33333333333333%" vertical-align="middle">
+        <mj-image src="https://cancarner.coop/wp-content/uploads/2019/08/logo_natural.png" alt="Can Carner" padding-bottom="0px" padding-top="0px" href="https://cancarner.coop/"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff">
+      <mj-column width="100%">
+        <mj-text align="center" font-size="16px" font-weight="bold" color="#d03c15" padding-bottom="10px" padding-top="10px" line-height="22px">Vols viure a Can Carner Cooperativa d'Habitatge?<br>Estem buscant noves sòcies d'ús</mj-text>
+        <mj-image src="https://cancarner.coop/wp-content/uploads/2019/08/portada.jpg" alt="Can Carner"></mj-image>
+        <mj-text align="justify" font-size="14px" color="#45474e" padding-bottom="10px" padding-top="10px" line-height="18px">Per tal d'intentar mantenir la intergeneracionalitat del projecte, inicialment, les característiques i requisits de la unitat de convivència entrant han de ser les següents:</mj-text>
+        <mj-text align="center" font-size="14px" color="#45474e" padding-bottom="5px" padding-top="5px" line-height="18px">- Menys de 40 anys.</mj-text>
+        <mj-text align="center" font-size="14px" color="#45474e" padding-bottom="5px" padding-top="5px" line-height="18px">- Amb criatures o amb intenció de tenir-ne.</mj-text>
+        <mj-text align="center" font-size="14px" color="#45474e" padding-bottom="5px" padding-top="5px" line-height="18px">- Aportació econòmica inicial de 44.000€*</mj-text>
+        <mj-text align="center" font-size="14px" color="#45474e" padding-bottom="5px" padding-top="5px" line-height="18px">- Quota mensual de 750€ (despeses a part) un cop s'hi vagi a viure</mj-text>
+        <mj-text align="justify" font-size="10px" color="#45474e" padding-bottom="10px" padding-top="10px" line-height="14px">*mitjançant l'adquisició de títols nominatius de la cooperativa. Aquesta quantitat es retorna sempre en el moment en què la sòcia d'ús es dona de baixa</mj-text>
+        <mj-text align="justify" font-size="14px" color="#45474e" padding-bottom="10px" padding-top="10px" line-height="18px">Del <b style="color:#d03c15">12 de novembre a l'11 de desembre</b> recollirem les sol·licituds. En seleccionarem una i aquesta iniciarà un procés d'integració que culminarà dos mesos més tard <b style="color:#d03c15">entrant a formar part com a sòcies d'ús</b> si la unitat de convivència i la resta de les sòcies d'ús hi estan d'acord.</mj-text>
+        <mj-text align="justify" font-size="14px" color="#45474e" padding-bottom="10px" padding-top="10px" line-height="18px">Si esteu interessades en aquest bonic projecte contacteu-nos enviant un correu a <a style="color: #d03c15" href="mailto:festesocia@cancarner.coop">festesocia@cancarner.coop</a>. Per a més informació del projecte, visiteu el nostre <a style="color: #d03c15" href="https://cancarner.coop">web</a>.</mj-text>
+        <mj-text align="center" font-size="16px" font-weight="bold" color="#d03c15" padding-bottom="10px" padding-top="10px" line-height="22px">Altres notícies del projecte</mj-text>
+        <mj-text align="justify" font-size="14px" color="#45474e" padding-bottom="10px" padding-top="10px" line-height="18px">A causa de la situació que hem viscut els últims temps, no havíem pogut ensenyar el projecte i l'estat de la reforma amb persones alienes al projecte. El passat 9 d'octubre vam organitzar una visita guiada a la masia per a FIARE (entitat bancària ètica que ha finançat part de la compra i reforma de Can carner). De la mà de Som Habitat, vam explicar les característiques tècniques del projecte i vam mostrar el canvi que està fent la masia per dins.</mj-text>
+        <mj-image src="https://cancarner.coop/wp-content/uploads/2022/11/fiare-visita.jpg" alt="FIARE a Can Carner"></mj-image>
+        <mj-text align="justify" font-size="14px" color="#45474e" padding-bottom="10px" padding-top="10px" line-height="18px">Tenim previst fer més visites destinades a sòcies del projecte, altres grups de cohabitatge i persones individuals que han mostrat interès.</mj-text>
+        <mj-text align="center" font-size="16px" font-weight="bold" color="#d03c15" padding-bottom="10px" padding-top="10px" line-height="22px">Estigueu atentes!</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" full-width="full-width">
+      <mj-column width="100%" vertical-align="middle">
+        <mj-divider border-width="1px" border-style="dashed" border-color="lightgrey" />
+        <mj-text align="left" font-size="10px" color="#9da3a3" padding-bottom="10px" padding-top="0px" line-height="14px"> Us hem enviat aquest butlletí perquè en algun moment heu mostrat interès per la Cooperativa. Si no desitgeu rebre'l més, podeu donar-vos de baixa clicant aquest <a href="[LINK_UNSUBSCRIBE]" style="color:#d03c15">enllaç</a>. </mj-text>
+        <mj-text align="justify" font-size="10px" color="#9da3a3" padding-bottom="10px" padding-top="0px" line-height="14px"> D'acord amb la Llei Orgànica 15/1999, de 13 de desembre, de Protecció de Dades de Caràcter Personal, vostè és informat de la incorporació de les seves dades en un fitxer automatitzat. El propòsit és gestionar la nostra agenda de contactes, atendre
+          les seves sol·licituds per via electrònica així com a efectes històrics o per informar-lo de les nostres activitats. Igualment, queda informat de la possibilitat d'exercir els drets d'accés, rectificació, cancel·lació i oposició a que les seves
+          dades siguin tractades per Can Carner Cooperativa d'Habitatge, S.C.C.L., adreçant-se a: cancarner@cancarner.coop. Per a més informació consulti la política de privacitat a <a style="color: #9da3a3" href="https://cancarner.coop/cookies">https://cancarner.coop/cookies</a>.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#293744" full-width="full-width" padding-top="20px" padding-bottom="20px" padding-right="20px" text-align="center">
+      <mj-group width="120px">
+        <mj-column>
+          <mj-image height="20px" width="20px" padding="0px" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/facebook.png" alt="facebook" href="https://www.facebook.com/cancarner/"></mj-image>
+        </mj-column>
+        <mj-column>
+          <mj-image height="20px" width="20px" padding="0px" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/instagram.png" alt="instagram" href="https://www.instagram.com/cancarnercoop/"></mj-image>
+        </mj-column>
+        <mj-column>
+          <mj-image height="20px" width="20px" padding="0px" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/twitter.png" alt="twitter" href="http://twitter.com/cancarner"></mj-image>
+        </mj-column>
+        <mj-column>
+          <mj-image height="20px" width="20px" padding="0px" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/youtube.png" alt="youtube" href="https://www.youtube.com/channel/UCeEZo-Lkz7PREdp_WxZD25Q"></mj-image>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+  </mj-body>
+</mjml>
