@@ -1,0 +1,59 @@
+<mjml>
+  <mj-body background-color="#ffffff" width="600px">
+    <mj-section background-color="#293744" full-width="full-width">
+      <mj-column width="100%" vertical-align="middle">
+        <mj-text color="#FFFFFF" align="right" font-size="11px" padding-bottom="0px" padding-top="0"><span style="font-size: 11px"><a href="[LINK_BROWSER]" style="text-decoration: none; color: inherit;">Si no pots veure aquest butlletí, fes clic aquí</a></span></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff">
+      <mj-column width="33.33333333333333%" vertical-align="middle">
+        <mj-image src="https://cancarner.coop/wp-content/uploads/2019/08/logo_natural.png" alt="Can Carner" padding-bottom="0px" padding-top="0px" href="https://cancarner.coop/"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff">
+      <mj-column width="100%">
+        <mj-text align="center" font-size="16px" font-weight="bold" color="#d03c15" padding-bottom="10px" padding-top="10px" line-height="22px">Transformació i Vida a Can Carner: Obres, Autoconstrucció</mj-text>
+        <mj-image src="https://cancarner.coop/wp-content/uploads/2023/06/photo_5764882938268335058_y.jpg  " alt="Can Carner"></mj-image>
+        <mj-text align="justify" font-size="14px" color="#45474e" padding-bottom="10px" padding-top="10px" line-height="18px">Amigues i amics can carnerenques, </mj-text>
+
+        <mj-text align="justify" font-size="14px" color="#45474e" padding-bottom="10px" padding-top="10px" line-height="18px">Fa uns dies d’ençà el darrer butlletí. Disculpeu la tardança en posar-vos al dia. La feina a moments ens sobrepassa, però tenim moltes ganes de compartir amb vosaltres com estem i com va avançant aquest projecte!</mj-text>
+        <mj-text align="justify" font-size="14px" color="#45474e" padding-bottom="10px" padding-top="10px" line-height="18px">Des que han començat les obres tot ha agafat una nova dimensió. </mj-text>
+        <mj-text align="center" font-size="16px" font-weight="bold" color="#d03c15" padding-bottom="10px" padding-top="10px" line-height="22px">Cada vegada està més a prop el moment de poder-hi anar a viure, i estem que ens mudem a sobre!</mj-text>
+        <mj-text align="justify" font-size="14px" color="#45474e" padding-bottom="10px" padding-top="10px" line-height="18px">Les obres han avançat molt durant aquests mesos i la masia sembla un laberint: tots els espais estan compartimentats, els lavabos ja estan enrajolats, s’està fent la teulada i cobertes noves i ja s’ha començat a posar la  fusteria a finestres i balcons.</mj-text>
+        <mj-image src="https://cancarner.coop/wp-content/uploads/2023/06/photo_5764882938268335060_y.jpg" alt="FIARE a Can Carner"></mj-image>
+        <mj-text align="justify" font-size="14px" color="#45474e" padding-bottom="10px" padding-top="10px" line-height="18px">No hem estat exempts d’imprevistos i això a comportat reajustaments en el pressupost i per tant, també respecte el projecte inicial. Però tenim una comissió tècnica i econòmica meravelloses que estan pencant de valent per poder fer front a totes aquestes situacions amb el menor impacte pel projecte.</mj-text>
+        <mj-text align="justify" font-size="14px" color="#45474e" padding-bottom="10px" padding-top="10px" line-height="18px">I, una de les coses que hem decidit per poder reduir despeses ha estat fer força autoconstrucció,  així que ja ens veieu cap de setmana sí, cap de setmana també polint parets, pintant i feineja que feinejaràs! </mj-text>
+        <mj-text align="justify" font-size="14px" color="#45474e" padding-bottom="10px" padding-top="10px" line-height="18px">I la veritat és que malgrat l’esforç i dedicació estem molt contentes perquè també està sent un moment de compartir i gaudir amb més quotidianitat de la presència de les famílies i espai. I poc a poc comencem a projectar com serà aquesta vida amb comunitat que anhelem. </mj-text>
+        <mj-text align="justify" font-size="14px" color="#45474e" padding-bottom="10px" padding-top="10px" line-height="18px">Pràcticament tenim tots els esforços i dedicació posats aquí, malgrat anem gestant nous projectes i moviments que esperem poder-vos compartir properament quan estiguin més madurs.</mj-text>
+        <mj-text align="justify" font-size="14px" color="#45474e" padding-bottom="10px" padding-top="10px" line-height="18px">Us volem explicar també que estem molt contentes amb la pluja que ens està regalant aquesta primavera, la frondositat va guanyant espai i les noves camades de pollets que neixen a Can Carner ens connecten amb l’esplendor de la vida.</mj-text>
+        <mj-text align="justify" font-size="14px" color="#45474e" padding-bottom="10px" padding-top="10px" line-height="18px">Esperem que el proper butlletí ja pugui venir amb la notícia del final de l’obra! Ens acomiadem per ara, agraïdes de tot el vostre suport i estima. Fins aviat!</mj-text>
+        </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" full-width="full-width">
+      <mj-column width="100%" vertical-align="middle">
+        <mj-divider border-width="1px" border-style="dashed" border-color="lightgrey" />
+        <mj-text align="left" font-size="10px" color="#9da3a3" padding-bottom="10px" padding-top="0px" line-height="14px"> Us hem enviat aquest butlletí perquè en algun moment heu mostrat interès per la Cooperativa. Si no desitgeu rebre'l més, podeu donar-vos de baixa clicant aquest <a href="[LINK_UNSUBSCRIBE]" style="color:#d03c15">enllaç</a>. </mj-text>
+        <mj-text align="justify" font-size="10px" color="#9da3a3" padding-bottom="10px" padding-top="0px" line-height="14px"> D'acord amb la Llei Orgànica 15/1999, de 13 de desembre, de Protecció de Dades de Caràcter Personal, vostè és informat de la incorporació de les seves dades en un fitxer automatitzat. El propòsit és gestionar la nostra agenda de contactes, atendre
+          les seves sol·licituds per via electrònica així com a efectes històrics o per informar-lo de les nostres activitats. Igualment, queda informat de la possibilitat d'exercir els drets d'accés, rectificació, cancel·lació i oposició a que les seves
+          dades siguin tractades per Can Carner Cooperativa d'Habitatge, S.C.C.L., adreçant-se a: cancarner@cancarner.coop. Per a més informació consulti la política de privacitat a <a style="color: #9da3a3" href="https://cancarner.coop/cookies">https://cancarner.coop/cookies</a>.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#293744" full-width="full-width" padding-top="20px" padding-bottom="20px" padding-right="20px" text-align="center">
+      <mj-group width="120px">
+        <mj-column>
+          <mj-image height="20px" width="20px" padding="0px" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/facebook.png" alt="facebook" href="https://www.facebook.com/cancarner/"></mj-image>
+        </mj-column>
+        <mj-column>
+          <mj-image height="20px" width="20px" padding="0px" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/instagram.png" alt="instagram" href="https://www.instagram.com/cancarnercoop/"></mj-image>
+        </mj-column>
+        <mj-column>
+          <mj-image height="20px" width="20px" padding="0px" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/twitter.png" alt="twitter" href="http://twitter.com/cancarner"></mj-image>
+        </mj-column>
+        <mj-column>
+          <mj-image height="20px" width="20px" padding="0px" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/youtube.png" alt="youtube" href="https://www.youtube.com/channel/UCeEZo-Lkz7PREdp_WxZD25Q"></mj-image>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+  </mj-body>
+</mjml>
